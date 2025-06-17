@@ -7,7 +7,7 @@ Dësen Tool benotzt den ZLS Whisper-Modell fir d'Transkriptioun vu lëtzebuerges
 ## Installatioun
 
 1. **Modell eroflueden**  
-   Luet déi follgend zwee Fichiere vum HuggingFace-Repository erof:  
+   Luet déi follgend zwee Fichiere vum HuggingFace-Repository erof a späichert se an engem lokalen Dossier op Ärem Computer:  
    [`pytorch_model.bin`](https://huggingface.co/ZLSCompLing/whisper_large_lb_ZLS_v4_38h/resolve/main/pytorch_model.bin)  
    [`config.json`](https://huggingface.co/ZLSCompLing/whisper_large_lb_ZLS_v4_38h/resolve/main/config.json)  
 
